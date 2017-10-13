@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # spotify-vuejs
 
 > A Vue.js project
